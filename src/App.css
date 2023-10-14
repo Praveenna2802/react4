@@ -1,0 +1,16 @@
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: black; /* Set the table background color to black */
+  color: white; /* Set the text color to white */
+}
+
+table, th, td {
+  border: none; 
+}
+
+th, td {
+  padding: 10px; 
+  text-align: left; 
+}
